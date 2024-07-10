@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/kav"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/TripleScript/Triple-Lib/main/source.lua.txt"))()
 local Window = Library.CreateLib("TITLE", "DarkTheme")
 local Tab = Window:NewTab("TabName")
 local Section = Tab:NewSection("Section Name")
